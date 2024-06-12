@@ -1,0 +1,3 @@
+﻿  ++пр8.cpp
+C:\Users\ronetel\source\repos\++пр8\++пр8\++пр8.cpp(14,42): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  ++пр8.vcxproj -> C:\Users\ronetel\source\repos\++пр8\x64\Debug\++пр8.exe
